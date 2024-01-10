@@ -1,0 +1,16 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "CWI UI Library Components",
+  "main": "index.js",
+  "scripts": {
+    "gc": "plop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ignacio Avilés <nacho72001@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "plop": "^4.0.1"
+  }
+}
